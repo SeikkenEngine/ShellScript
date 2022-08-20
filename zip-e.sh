@@ -1,4 +1,5 @@
 #!/bin/sh
+#중요한 정보를 담은 로그 파일 등을 암호가 있는 zip으로 아카이브 합니다 . 
 
 logdir="/home/vscode/myapp"
 
