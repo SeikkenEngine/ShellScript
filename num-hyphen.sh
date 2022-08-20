@@ -1,5 +1,7 @@
 #!/bin/sh
 
+# 정해진 자릿수 숫자에 하이픈 넣는 스크립트 입니다 . 
+
 d_flag=0                    #1
 
 while getopts "d" option    #2
