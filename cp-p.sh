@@ -1,4 +1,5 @@
 #!/bin/sh
+# 파일의 퍼미션, 타임스탬를를 유지한채 복사하는 스크립트 
 
 backup_dir="/home/vscode/backup"
 
