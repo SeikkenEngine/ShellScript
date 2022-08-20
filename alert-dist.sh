@@ -1,4 +1,6 @@
 #!/bin/sh
+# 디스크 용량을 감시하는 스크립트 입니다 
+
 
 used_limit=90                                   #1
 tmpfile="df.tmp.$$"                             #2
