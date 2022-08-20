@@ -1,4 +1,5 @@
 #!/bin/sh
+# HUP 시그널을 받아서 실행 중에 설정 파일을 읽어드리는 스크립트 입니다 . 
 
 loadconf(){
     ../setting.conf
