@@ -1,5 +1,6 @@
 #!/bin/sh
 
+# 디렉터리에 있는 파일과 디렉터리 수 조사 하는 스크립트 입니다 .
 targetdir="/home/vscode/myapp"
 
 filecount=$(find "$targetdir" -maxdepth 1 -type f -print | wc -l)
